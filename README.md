@@ -7,14 +7,11 @@ In this module we practiced techniques on how to assess credit risk. We utilized
 
 ### Random Oversampling Model
 
-1<img width="684" alt="1" src="https://user-images.githubusercontent.com/80291340/125232011-9ea95e80-e290-11eb-8fdb-c58d7a2d8db2.png">
-
-2<img width="1306" alt="2" src="https://user-images.githubusercontent.com/80291340/125232026-a537d600-e290-11eb-955e-ee85b386358f.png">
-
-3<img width="1285" alt="3" src="https://user-images.githubusercontent.com/80291340/125232040-acf77a80-e290-11eb-8d92-7d7b379ae649.png">
+1<img width="1066" alt="1" src="https://user-images.githubusercontent.com/80291340/125232485-956cc180-e291-11eb-9000-df11b24fd0d7.png">
 
 
 ### SMOTE MODEL
+
 
 ### ClusterCentroids Model
 
