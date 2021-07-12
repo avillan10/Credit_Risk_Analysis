@@ -9,19 +9,21 @@ In this module we practiced techniques on how to assess credit risk. We utilized
 
 1<img width="1066" alt="1" src="https://user-images.githubusercontent.com/80291340/125232485-956cc180-e291-11eb-9000-df11b24fd0d7.png">
 
-
 ### SMOTE MODEL
 
-
-### ClusterCentroids Model
+2<img width="1056" alt="2" src="https://user-images.githubusercontent.com/80291340/125232598-cea53180-e291-11eb-99df-18c7b8d95eba.png">
 
 ### SMOTEENN Model
 
+3<img width="1083" alt="3" src="https://user-images.githubusercontent.com/80291340/125233001-98b47d00-e292-11eb-9f5a-4911bc2a3e03.png">
+
 ### BalancedRandomForestClassifier Model
+
+4<img width="1078" alt="4" src="https://user-images.githubusercontent.com/80291340/125233116-ca2d4880-e292-11eb-8c1c-0eeb40b9fdc5.png">
 
 ### EasyEnsembleClassifier model
 
-### 
+5<img width="1050" alt="5" src="https://user-images.githubusercontent.com/80291340/125233226-f8ab2380-e292-11eb-997f-22bf66290670.png">
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
