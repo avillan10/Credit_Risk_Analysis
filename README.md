@@ -27,3 +27,4 @@ In this module we practiced techniques on how to assess credit risk. We utilized
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
+The performances of all the models suggests weak precision in determining high risk credit. The Easy Ensemble Classifier model displays the recall category as 92%---denoting that the model detects almost all high credit risk. But with low precision, there are also many low risk credits being falsely noticed as high risk, which in the end would hurt a bank's credibility.
